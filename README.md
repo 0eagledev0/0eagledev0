@@ -56,26 +56,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle)
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase)
-
-#### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
-![Ansible](https://img.shields.io/badge/Ansible-05122A?style=flat&logo=ansible)
-![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)
-![Jira](https://img.shields.io/badge/Jira-05122A?style=flat&logo=jira)
-![Confluence](https://img.shields.io/badge/Confluence-05122A?style=flat&logo=confluence)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-05122A?style=flat&logo=bitbucket)
-![SonarQube](https://img.shields.io/badge/SonarQube-05122A?style=flat&logo=sonarqube)
-![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)
-![VSCode](https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visualstudiocode)
-![Android Studio](https://img.shields.io/badge/Android_Studio-05122A?style=flat&logo=androidstudio)
-
-#### Networking & Security
-![Cisco](https://img.shields.io/badge/Cisco_ACI-05122A?style=flat&logo=cisco)
-![JWT](https://img.shields.io/badge/JWT-05122A?style=flat&logo=jsonwebtokens)
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-05122A?style=flat&logo=auth0)
-![REST API](https://img.shields.io/badge/REST_API-05122A?style=flat&logo=fastapi)
+ 
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center"   >

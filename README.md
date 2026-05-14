@@ -35,9 +35,6 @@
 ![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql)
 ![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnubash)
 ![Scala](https://img.shields.io/badge/Scala-05122A?style=flat&logo=scala)
-
-
-#### Frameworks & Libraries
 ![React Native](https://img.shields.io/badge/React_Native-05122A?style=flat&logo=react)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-05122A?style=flat&logo=jetpackcompose)
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs)
@@ -47,9 +44,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-05122A?style=flat&logo=springboot)
 ![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=flat&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)
-![Mockito](https://img.shields.io/badge/Mockito-05122A?style=flat&logo=mockito)
-
-#### Databases & Cloud
 ![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)

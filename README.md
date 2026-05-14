@@ -15,10 +15,13 @@
 🚀 &nbsp;I also develop personal projects using technologies such as Python, React Native, Kotlin, Java, Docker, and Firebase.\
 💬 &nbsp;Feel free to reach out if you'd like to discuss software engineering, DevOps, automation, networking, or interesting tech projects.\
 ✉️ &nbsp;You can contact me at **a_o_career@hotmail.com** — I'll try to respond as soon as possible!\ 
+ 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
+
+<img width="160" height="90" alt="Programmer Coding GIF" src="https://github.com/user-attachments/assets/80a092c7-fdbb-4ea7-b739-10504c5df26e" align="right"/>
+
 
 #### Programming Languages
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)
@@ -32,6 +35,7 @@
 ![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql)
 ![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnubash)
 ![Scala](https://img.shields.io/badge/Scala-05122A?style=flat&logo=scala)
+
 
 #### Frameworks & Libraries
 ![React Native](https://img.shields.io/badge/React_Native-05122A?style=flat&logo=react)
@@ -74,10 +78,10 @@
 ![REST API](https://img.shields.io/badge/REST_API-05122A?style=flat&logo=fastapi)
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
+<p align="center"   >
 <a href="https://github.com/0eagledev0">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0eagledev0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0eagledev0&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0eagledev0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0eagledev0&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
 </a>
 </p>
 
@@ -85,6 +89,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/a-oumer"><img src="https://img.shields.io/badge/-Ahmed%20Oumerhouch-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:a_o_career@hotmail.com"><img src="https://img.shields.io/badge/-a__o__career@hotmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://discord.com/eagle__dev"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
+<a href="mailto:a_o_career@hotmail.com"><img src="https://img.shields.io/badge/-a__o__career@hotmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a> 
 </p>

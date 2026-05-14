@@ -20,7 +20,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<img width="160" height="90" alt="Programmer Coding GIF" src="https://github.com/user-attachments/assets/80a092c7-fdbb-4ea7-b739-10504c5df26e" align="right"/>
+<img width="260" height="150" alt="Programmer Coding GIF" src="https://github.com/user-attachments/assets/80a092c7-fdbb-4ea7-b739-10504c5df26e" align="right"/>
 
 
 #### Programming Languages

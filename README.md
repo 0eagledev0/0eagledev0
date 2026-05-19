@@ -22,7 +22,6 @@
 <img width="260" height="150" alt="Programmer Coding GIF" src="https://github.com/user-attachments/assets/80a092c7-fdbb-4ea7-b739-10504c5df26e" align="right"/>
 
 
-#### Programming Languages
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)
@@ -33,7 +32,6 @@
 ![CPP](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql)
 ![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnubash)
-![Scala](https://img.shields.io/badge/Scala-05122A?style=flat&logo=scala)
 ![React Native](https://img.shields.io/badge/React_Native-05122A?style=flat&logo=react)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-05122A?style=flat&logo=jetpackcompose)
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs)

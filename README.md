@@ -10,10 +10,8 @@
 
 💡 &nbsp;I enjoy building software solutions, exploring new technologies, and developing automation and DevOps tools.\
 🎓 &nbsp;I recently graduated with a Bachelor of Software Engineering from École de Technologie Supérieure (ÉTS) in Montreal.\
-🌱 &nbsp;I'm currently learning more about Cloud Architecture, Artificial Intelligence, Network Automation, and Scalable Systems Design.\
 🛠️ &nbsp;I gained professional experience through internships at Hydro-Québec and Desjardins, working on APIs, DevOps workflows, and network automation solutions.\
-🚀 &nbsp;I also develop personal projects using technologies such as Python, React Native, Kotlin, Java, Docker, and Firebase.\
-💬 &nbsp;Feel free to reach out if you'd like to discuss software engineering, DevOps, automation, networking, or interesting tech projects. 
+🚀 &nbsp;I also develop personal projects feel free to browse my public repositories.\
  
 
 

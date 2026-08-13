@@ -11,9 +11,7 @@
 💡 &nbsp;I enjoy building software solutions, exploring new technologies, and developing automation and DevOps tools.\
 🎓 &nbsp;I recently graduated with a Bachelor of Software Engineering from École de Technologie Supérieure (ÉTS) in Montreal.\
 🛠️ &nbsp;I gained professional experience through internships at Hydro-Québec and Desjardins, working on APIs, DevOps workflows, and network automation solutions.\
-🚀 &nbsp;I also develop personal projects feel free to browse my public repositories.\
- 
-
+🚀 &nbsp;I also develop personal projects feel free to browse my public repositories.  
 
 ### 🛠 &nbsp;Tech Stack
 
